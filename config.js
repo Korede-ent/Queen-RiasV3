@@ -1,7 +1,7 @@
 module.exports = {
     prefix: '.', // Set your command prefix
-    ownerName: 'Korede',
-    ownerNumber: '15045099442', // Your WhatsApp number in international format
+    ownerName: 'Sadeeq',
+    ownerNumber: '08123293919', // Your WhatsApp number in international format
     mode: 'private', // Default mode; can be 'public' or 'private'
     region: 'Nigeria', 
     botName: 'Rias Gremory V3', 
